@@ -24,7 +24,25 @@ This project is designed for educational and skill-enhancing purposes. It is a P
 - Pandas: Used for storing and managing scraped data.
 
 ## Installation
-Clone the repository:
-`git clone https://github.com/yourusername/movielink-scraper.git
-cd movielink-scraper`
+1. Clone the repository:
+ `[repository]`(https://github.com/Itzudii/Movie-Downloading-System-Python-/tree/main)
+2. Run the application:
+   `python main.py`
+
+## Usage
+1. Launch the application:
+- Run main.py to open the Tkinter-based GUI.
+2. Scrape movie links:
+
+- Enter the name of the movie you wish to download.
+- Click on the "enter" button to search the movie name in `CSV` file.
+- filtered the link of movie you was to select.
+
+3. Store and filter links:
+
+- scrape direct link of movie to download.
+- download!.
+
+
+
 
