@@ -25,7 +25,7 @@ This project is designed for educational and skill-enhancing purposes. It is a P
 
 ## Installation
 1. Clone the repository:
- `[repository]`(https://github.com/Itzudii/Movie-Downloading-System-Python-/tree/main)
+ [repository](https://github.com/Itzudii/Movie-Downloading-System-Python-/tree/main)
 2. Run the application:
    `python main.py`
 
