@@ -1,3 +1,6 @@
+## NOTE This project is strictly for educational and legitimate purposes. It does not promote or support any illegal activities.
+# credit to fillmyzilla.com
+
 # 🎬 Movie Link Web Scraper
 ## 📚 Project Overview
 This project is designed for educational and skill-enhancing purposes. It is a Python-based web scraper that extracts movie links from a specific website and stores them in a CSV file. The project leverages several Python libraries, including Tkinter for the graphical user interface, BeautifulSoup for web scraping, and Pandas for data storage.
